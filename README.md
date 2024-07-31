@@ -4,6 +4,9 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 - [All submitted reports of Beanstalk](https://community.bean.money/bug-reports)<br/>
 - [SCV-List](https://github.com/sirhashalot/SCV-List)
 
+Updates from me:
+ https://medium.com/@kupiasec/finding-a-viper-in-the-curved-lawn-e43401997cce - curve vulnerability
+
 | bounty amount          | **severity** | **protocol name + write-up link**                                                                                                                                          | **whitehat**                                                                           |
 | ---------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | 10M                    | Critical  ✅  | [Wormhole](https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a)                                                       | [satya0x](https://twitter.com/satya0x)                                                 |
