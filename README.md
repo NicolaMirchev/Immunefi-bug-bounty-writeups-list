@@ -5,7 +5,8 @@ If you're looking for the latest ones,those're most likely somewhere at the bott
 - [SCV-List](https://github.com/sirhashalot/SCV-List)
 
 ## Updates from me:
- https://medium.com/@kupiasec/finding-a-viper-in-the-curved-lawn-e43401997cce - curve vulnerability
+ - [Curve vulnerability](https://medium.com/@kupiasec/finding-a-viper-in-the-curved-lawn-e43401997cce) 
+ - [Curve vulnerability with Vyper compiler](https://x.com/tonyke_bot/status/1685688149090213889?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1685688149090213889%7Ctwgr%5E5dfbe6df69863fd8d6206643bfcdfade484015b5%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fcurve-finance-pools-exploited-over-24-reentrancy-vulnerability) 
 
 | bounty amount          | **severity** | **protocol name + write-up link**                                                                                                                                          | **whitehat**                                                                           |
 | ---------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
